@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/holdener-internal_fragmentation/static/css/main.03f61b8a.css",
+    "main.js": "/holdener-internal_fragmentation/static/js/main.1e3be89c.js",
+    "static/js/453.dc33feca.chunk.js": "/holdener-internal_fragmentation/static/js/453.dc33feca.chunk.js",
+    "index.html": "/holdener-internal_fragmentation/index.html",
+    "main.03f61b8a.css.map": "/holdener-internal_fragmentation/static/css/main.03f61b8a.css.map",
+    "main.1e3be89c.js.map": "/holdener-internal_fragmentation/static/js/main.1e3be89c.js.map",
+    "453.dc33feca.chunk.js.map": "/holdener-internal_fragmentation/static/js/453.dc33feca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f61b8a.css",
+    "static/js/main.1e3be89c.js"
+  ]
+}
